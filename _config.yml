@@ -3,7 +3,7 @@ title               : Hi I'm Em
 description         : >-
                       software engineer :computer: by day,
                       clown :eyes: by night
-baseurl             : "emsanity.com"   
+baseurl             : "emam97.github.io/portfolio"   
 repository          : emam97/portfolio
 remote_theme        : YoussefRaafatNasry/portfolYOU
 github              : [metadata]
@@ -65,7 +65,7 @@ disqus: your-short-name-disqus                          # Your website Shortname
 analytics:
   enabled: true                                        # Set true to enable analytics
   google:
-    tracking_id: 2203520867
+    tracking_id: G-23K7MQ39EP
 
 
 ### Defaults for collections ###
