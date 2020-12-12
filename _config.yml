@@ -1,0 +1,94 @@
+### Site Settings ###
+title               : Hi I'm Em
+description         : >-
+                      software engineer :computer: by day,
+                      clown :eyes: by night
+baseurl             : ""   
+repository          : emam97/portfolio
+remote_theme        : YoussefRaafatNasry/portfolYOU
+github              : [metadata]
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - pages/blog.html
+
+
+### Author Info ###
+author:
+  name              : Em Marin
+  image             : /lib/me.jpg
+  #behance           : your_username
+# dribbble          : your_username
+  email             : emily.m.a.marin@gmail.com
+  github            : emam97
+# gitlab            : your_username
+  instagram         : emsan1ty
+# kaggle            : your_username
+  linkedin          : em-marin-435593a0
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# vimeo             : your_username
+  youtube           : FlipTheIslander
+# keybase           : your_username
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  elements:                                             # For Documentation Only
+    output: true                                        # For Documentation Only
+
+
+### Disqus ###
+disqus: your-short-name-disqus                          # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: true                                        # Set true to enable analytics
+  google:
+    tracking_id: 2203520867
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:                                              # For Documentation Only
+      path: ""                                          # For Documentation Only
+      type: "elements"                                  # For Documentation Only
+    values:                                             # For Documentation Only
+      layout: "element"                                 # For Documentation Only
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
