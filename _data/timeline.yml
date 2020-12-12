@@ -1,29 +1,28 @@
-- title: Student, Georgia Tech - ATL, GA
+- title: B.S. Computer Science, Georgia Tech - ATL, GA
   from: 2015
   to: 2019
-  description: Graduated with threads (Georgia Tech's form of concentrations) in People (Human-Computer Interaction, Ethics in Tech) and Intelligence (Artificial Intelligence, Machine Learning, Robot Intelligence, etc).
-               Conducted research under professors in the College of Human-Computer Interaction, primarily in understanding community-based interaction over the internet and education through technology.
+  description: Graduated with threads (concentrations) in People and Intelligence.  
+               Conducted research under professors in the College of Human-Computer Interaction, primarily in understanding community-based interaction over the internet and education through technology.  
+               Project managed and developed mobile healthcare application for refugees as part of a two semester senior capstone, partnering with Georgia Tech professors and Emory Public Health graduate students.  
                Led and organized multiple campus-wide and nation-wide student events and initiatives via leadership roles in Delta Phi Lambda (President, Recruitment Chair, Event Organizing Committee), Multicultural Greek Council (VP Communications), and HackGT (Communications Team Member, Catalyst - Design Thread Lead)
 
-- title: Project Management and Software Development Intern (Explore), Microsoft - SEA, WA
+- title: Product Management and Software Development Intern (Explore), Microsoft - SEA, WA
   from: 2016
-  to: 2018
-  description: Participated in the Explore Program in which interns develop experience as both a project manager 
-               and a software developer. Coded Outlook Security Plug-In which allowed users to detect and 
-              report phishing emails. Created a cleaner user interface and coded more efficient business 
-              layer logic for sending submissions to cloud storage using AngularJS, Javascript, HTML, and C#.
+  to: 2017
+  description: Participated in the Explore Program's 12-Week summer internship, in which interns develop experience as both a product manager 
+               and a software developer. Developed a Outlook Security Plug-In which allowed users to detect and 
+              report phishing emails using AngularJS, Javascript, HTML, and C#.
 
 - title: Software Engineer Intern, Microsoft - SEA, WA
   from: 2016
   to: 2018
-  description: Software Engineer Intern for two consecutive 12-Week Summer Internships across teams in Microsft 360 Core.
-               Successfully developed and pushed into production the groundwork for micro-service routing
-               architecture on Microsoft Exchange servers. Developed an end-to-end application for a HTTP-based routing service,
-               and
+  description: Software Engineer Intern for two consecutive 12-Week Summer Internships across teams in Microsoft 360 Core.
+               Successfully developed and pushed into production the groundwork for a C# micro-service routing
+               architecture on Microsoft Exchange servers. Developed an end-to-end full stack application for a HTTP-based routing service.
 
-- title: Software Engineer, Teachable, NYC
+- title: Software Engineer, Teachable, NYC, NY
   from: 2019
   to: present
   description: Software Engineer on the Identity and Integrations Pod,
-               focusing primarily on backend services to support and empower course creators 
+               focusing primarily on RoR backend services to support and empower course creators 
                to connect with their students on Teachable's platform.

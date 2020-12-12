@@ -1,4 +1,4 @@
-- name: Ruby on Rails
+- name: RoR
   percentage: 80
   color:
 
@@ -10,7 +10,7 @@
   percentage: 30
   color: dark
 
-- name: HTML5/CSS3
+- name: HTML5/CSS
   percentage: 75
   color: danger
 

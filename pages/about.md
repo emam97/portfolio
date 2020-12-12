@@ -6,7 +6,7 @@ weight: 3
 ---
 
 # **Who is she?**
-Human who doesn't take herself too seriously :dizzy_face: <br>
+An optimist who doesn't take herself too seriously :dizzy_face: <br>
 Passionate about many things, but particularly coding :computer:, cooking :stew:, sustainability :earth_asia:, and fashion :crown:.
 
 <div class="row">
