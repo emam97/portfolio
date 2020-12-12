@@ -3,7 +3,7 @@ title               : Hi I'm Em
 description         : >-
                       software engineer :computer: by day,
                       clown :eyes: by night
-baseurl             : "emam97.github.io/portfolio"   
+baseurl             : ""   
 repository          : emam97/portfolio
 remote_theme        : YoussefRaafatNasry/portfolYOU
 github              : [metadata]
@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Em Marin
-  image             : /lib/me.jpg
+  image             : portfolio/lib/me.jpg
   #behance           : your_username
 # dribbble          : your_username
   email             : emily.m.a.marin@gmail.com
