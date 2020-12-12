@@ -3,7 +3,7 @@ title               : Hi I'm Em
 description         : >-
                       software engineer :computer: by day,
                       clown :eyes: by night
-baseurl             : ""   
+baseurl             : "emsanity.com"   
 repository          : emam97/portfolio
 remote_theme        : YoussefRaafatNasry/portfolYOU
 github              : [metadata]
